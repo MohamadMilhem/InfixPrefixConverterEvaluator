@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1685275583 source:c:\users\moham\onedrive\desktop\computer engineering\comp2421 (data structures and algorithms)\project 1\p2_1211053_mohamadmilhem_3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1685275583 source:c:\users\moham\onedrive\desktop\computer engineering\comp2421 (data structures and algorithms)\project 1\infixprefixconverterevaluator\main.c
+	<stdio.h>
+	<stdlib.h>
+
